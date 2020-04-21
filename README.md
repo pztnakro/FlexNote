@@ -1,4 +1,4 @@
-# flexnote
+# FlexNote
 
 A new Flutter application.
 
